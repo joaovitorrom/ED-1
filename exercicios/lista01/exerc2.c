@@ -1,8 +1,5 @@
 /* 2. Alocação Dinâmica de Vetor 
-Crie um programa com uma função que crie um vetor dinamicamente de números inteiros 
-com tamanho definido pelo usuário. Também deve ter outra função para que o usuário possa 
-preencher os valores e outra função que imprima os valores preenchidos. Apresente na função 
-main a utilização de todas as funcionalidades. */
+Crie um programa com uma função que crie um vetor dinamicamente de números inteiros com tamanho definido pelo usuário. Também deve ter outra função para que o usuário possa preencher os valores e outra função que imprima os valores preenchidos. Apresente na função main a utilização de todas as funcionalidades. */
 #include <stdio.h>
 #include <stdlib.h>
 

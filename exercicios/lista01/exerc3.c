@@ -1,6 +1,5 @@
 /* 3. Copiar Conteúdo de um Vetor Usando Ponteiros 
-Crie um programa com uma função que copie os valores de um vetor de inteiros para outro 
-usando ponteiros. */
+Crie um programa com uma função que copie os valores de um vetor de inteiros para outro usando ponteiros. */
 #include <stdio.h>
 #include <stdlib.h>
 #define tam 4
